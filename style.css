@@ -1,0 +1,18 @@
+body{
+    text-align: center
+}
+#apps{
+    background-color: aqua
+}
+#games{
+    background-color: blueviolet
+}
+iframe{
+    margin: 10px;
+}
+img{
+    transition:transform .2s;
+}
+img:hover{
+    transform: scale(.9);
+}
